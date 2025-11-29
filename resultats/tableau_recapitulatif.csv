@@ -1,0 +1,4 @@
+Modèle,Score CV (moyenne),Accuracy Test,Écart
+Random Forest,1.000,1.000,0.000
+SVM,1.000,1.000,0.000
+Regression Logistique,1.000,1.000,0.000

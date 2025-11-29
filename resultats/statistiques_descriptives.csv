@@ -1,0 +1,6 @@
+,energy,energy,energy,energy,spectral_centroid,spectral_centroid,zero_crossing_rate,zero_crossing_rate,chroma_stft,chroma_stft
+,mean,std,min,max,mean,std,mean,std,mean,std
+categorie,,,,,,,,,,
+energique,0.076,0.0071,0.0638,0.0935,3631.0312,268.4828,0.1373,0.0098,0.8043,0.0472
+fatigue,0.0145,0.0038,0.0072,0.0213,1092.8948,195.0317,0.0398,0.0064,0.2558,0.0433
+neutre,0.0444,0.0059,0.0288,0.0527,2399.5052,167.7509,0.0851,0.0104,0.5627,0.0414
