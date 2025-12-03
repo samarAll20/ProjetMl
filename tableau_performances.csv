@@ -1,0 +1,3 @@
+Modèle,Accuracy,Precision,Recall,F1-Score,Validation,Grid Search
+Random Forest,0.750,0.583,0.750,0.650,4-folds CV,✓
+SVM,1.000,1.000,1.000,1.000,4-folds CV,✓
